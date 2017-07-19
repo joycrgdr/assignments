@@ -58,3 +58,20 @@
 .container{
   padding: 50px 80px;
 }
+
+.global-header{
+  border-bottom: 1px solid #50555e;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(80, 85, 94);
+}
+
+.footer{
+    left: 0;
+    bottom: 0;
+    height: 1000%
+    width: 1000%;
+    overflow:hidden;
+    background-color: #e6e6e6;
+
+}
